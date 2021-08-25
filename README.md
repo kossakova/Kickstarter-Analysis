@@ -18,13 +18,15 @@ Make the data readable using Unix timestamp to determine what month launched the
 Organize, sort and analyze crowdfunding data to determine whether there are specific factors that make project campaign successful. 
 
 ### Analysis of Outcomes Based on Launch Date
-![Outcomes Based on Launch Date](https://user-images.githubusercontent.com/88459985/129804055-a1a0f95e-acc2-4ff4-9d58-47632104d29f.png)
+![Outcomes Based on Launch Date](https://github.com/kossakova/kickstarter-analysis/blob/main/Resources/Theater_Outcomes_vs_Launch..png)
+
 We did our first analysis by creating a pivot table and graph for “Outcomes by Launch Date”. 
 We applied filters to our pivot table to look up specific category and a year. 
 We also created a line chart from the pivot table to visualize the relationship between outcomes and launch months. 
 
 ### Analysis of Outcomes Based on Goals
-https://github.com/kossakova/kickstarter-analysis/blob/main/Resources/Outcomes_vs_Goals.png
+![Otcomes_vs_Goals](https://github.com/kossakova/kickstarter-analysis/blob/main/Resources/Outcomes_vs_Goals.png)
+
 We visualized the percentage of successful, failed, and canceled plays based on the funding goal amount in play subcategory. 
 Created Goal column to determine number of campaigns in every outcome category. 
 Based on our tubular data we created a line chart to expose relationship between the goal-amount ranges on the x-axis and the percentage of successful, failed, or canceled projects on the y-axis.
