@@ -1,4 +1,4 @@
-# kickstarter-analysis
+# Kickstarter-Analysis
 Performing analysis for Kickstarter project to uncover trends.
 
 ## Overview of Project
